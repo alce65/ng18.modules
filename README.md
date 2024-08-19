@@ -1,6 +1,11 @@
 # Ng18Modules
 
+Prueba de conceptos: DI en Angular 18 usando módulos y servicios.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+
+Generado con el comando `ng new ng18.modules --style css --standalone false --ssr false`
+Añadido ESLint con `ng add @angular-eslint/schematics`
 
 ## Development server
 
